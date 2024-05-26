@@ -4,6 +4,7 @@
 - 🔭 I’m currently learning **Python, PyTest, Docker**
 - 💬 Ask me about **testing and test automation**
 - 📫 Reach me **vladyslav.pustovalov@gmail.com**
+- 📄 Find out more in my <a href="https://vladyslav-pustovalov.github.io/HTML-Resume/" target="_blank" rel="noreferrer">Resume</a>
 
 <h3 align="left">
   💬 Let's Connect and have a Chat!
