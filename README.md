@@ -1,6 +1,8 @@
 <h2 align="center">Hi 👋, I'm Vladyslav</h2>
 <h3 align="center">A passionate QA Automation Engineer</h3>
 
+- 🧑‍💻 Original developer of [The Discipline Program backend service](https://github.com/vladyslav-pustovalov/the-discipline-program)
+- 🧑‍💻 Original developer of [The Discipline Program iOS app](https://github.com/vladyslav-pustovalov/the-discipline-program-ios)
 - 🔭 I’m currently learning **Python, PyTest, Docker**
 - 💬 Ask me about **testing and test automation**
 - 📫 Reach me **vladyslav.pustovalov@gmail.com**
@@ -29,6 +31,8 @@
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.swift.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> </a> 
 </p>
 <h3> 🙏 Aside of testing I'm interested in</h3>
 
