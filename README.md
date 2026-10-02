@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, I'm Vladyslav</h2>
 <h3 align="center">A passionate QA Automation Engineer</h3>
 
-- 🧑‍💻 Original developer of [The Discipline Program backend service](https://github.com/vladyslav-pustovalov/the-discipline-program)
+- 🧑‍💻 Original developer of [The Discipline Program backend service](https://github.com/vladyslav-pustovalov/the-discipline-program) (deprecated since everything migrated to the [platform backend](https://github.com/maksim-pokhiliy/the-discipline-program))
 - 🧑‍💻 Original developer of [The Discipline Program iOS app](https://github.com/vladyslav-pustovalov/the-discipline-program-ios)
-- 🔭 I’m currently learning **Python, PyTest, Docker**
+- 🧑‍💻 Original developer of [The Discipline Program Android app](https://github.com/vladyslav-pustovalov/the-discipline-program-android)
 - 💬 Ask me about **testing and test automation**
 - 📫 Reach me **vladyslav.pustovalov@gmail.com**
 - 📄 Find out more in my <a href="https://vladyslav-pustovalov.github.io/HTML-Resume/" target="_blank" rel="noreferrer">Resume</a>
@@ -38,5 +38,5 @@
 
 - 🏋 Crossfit, Weightlifting
 - 🏎 Formula 1
-- 📖 Reading books
-- 🌍 Travelling
+- 📖 Books
+- 🌍 Travel
